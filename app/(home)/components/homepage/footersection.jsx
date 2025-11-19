@@ -62,7 +62,7 @@ const Footersection = () => {
             Hilite business park, Kozhikode, Kerala, India.
           </p>
           <h1 className="font-bold text-xl mt-5">Contact</h1>
-          <p className="">+91 9946889899</p>
+          <p className="">+91 8589000052</p>
           <div className="flex gap-4 sm:mt-12  ">
             <a href="">
               <Image
